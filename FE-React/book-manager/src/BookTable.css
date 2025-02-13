@@ -1,0 +1,6 @@
+tr.selected > td {
+    background-color: rgb(26, 121, 247);
+}
+tr:not(.selected) > td {
+    background-color: rgb(46, 46, 46);
+}

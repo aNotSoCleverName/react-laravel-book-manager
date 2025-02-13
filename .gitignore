@@ -1,0 +1,47 @@
+### React
+# Logs
+FE-React\book-manager\logs
+FE-React\book-manager\*.log
+FE-React\book-manager\npm-debug.log*
+FE-React\book-manager\yarn-debug.log*
+FE-React\book-manager\yarn-error.log*
+FE-React\book-manager\pnpm-debug.log*
+FE-React\book-manager\lerna-debug.log*
+
+FE-React\book-manager\node_modules
+FE-React\book-manager\dist
+FE-React\book-manager\dist-ssr
+FE-React\book-manager\*.local
+
+# Editor directories and files
+FE-React\book-manager\.vscode/*
+FE-React\book-manager\!.vscode/extensions.json
+FE-React\book-manager\.idea
+FE-React\book-manager\.DS_Store
+FE-React\book-manager\*.suo
+FE-React\book-manager\*.ntvs*
+FE-React\book-manager\*.njsproj
+FE-React\book-manager\*.sln
+FE-React\book-manager\*.sw?
+
+### Laravel
+BE-Laravel/book-manager/.phpunit.cache
+BE-Laravel/book-manager/node_modules
+BE-Laravel/book-manager/public/build
+BE-Laravel/book-manager/public/hot
+BE-Laravel/book-manager/public/storage
+BE-Laravel/book-manager/storage/*.key
+BE-Laravel/book-manager/vendor
+BE-Laravel/book-manager/.env
+BE-Laravel/book-manager/.env.backup
+BE-Laravel/book-manager/.env.production
+BE-Laravel/book-manager/.phpunit.result.cache
+BE-Laravel/book-manager/Homestead.json
+BE-Laravel/book-manager/Homestead.yaml
+BE-Laravel/book-manager/auth.json
+BE-Laravel/book-manager/npm-debug.log
+BE-Laravel/book-manager/yarn-error.log
+BE-Laravel/book-manager/.fleet
+BE-Laravel/book-manager/.idea
+BE-Laravel/book-manager/.vscode
+
